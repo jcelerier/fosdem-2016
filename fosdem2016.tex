@@ -6,8 +6,11 @@
 \usepackage{fontspec}
 \usepackage{graphicx}
 \usepackage[utf8]{inputenc}
+\usepackage[justification=centering]{caption}
+\usepackage{subcaption}
 \setmainfont{Fira Sans}
-
+\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+\captionsetup[subfigure]{labelformat=empty}
 \newfontfamily\DejaSans{DejaVu Sans}
 \setbeamerfont{title}{family=\texttt,size=\huge}
 \usepackage[scale=2]{ccicons}
@@ -17,6 +20,7 @@
 \author{Jean-Michaël Celerier, Théo de la Hogue}
 \institute{LaBRI, Blue Yeti, GMEA }
 \date{January 30, 2016}
+
 \begin{document}
     
 \maketitle
@@ -50,14 +54,47 @@
 
 
 \begin{frame}
-    \frametitle{Agencies involved}
-    ANR
+    \frametitle{Contributors, Companies, Agencies involved}
+    \begin{figure}[htbp]
+    \begin{subfigure}[b]{0.25\textwidth} 
+        \centering
+        \input{images/logo-labri.tex}
+        \caption{LaBRI \\ \url{www.labri.fr}}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[b]{0.25\textwidth} 
+        \centering
+        \includegraphics[scale=0.12]{images/by.png}
+        \caption[]{Blue Yeti\\ \url{www.blueyeti.fr}}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[b]{0.25\textwidth} 
+        \centering
+        \includegraphics[scale=0.15]{images/gmea.png}
+        \caption[]{GMEA\\\url{www.gmea.net}}
+    \end{subfigure}
     
-    LaBRI
     
-    GMEA
+    \begin{subfigure}[b]{0.25\textwidth} 
+        \centering
+        \includegraphics[scale=0.25]{images/cnam.png}
+        \caption[]{CNAM : \\ CEDRIC, ENJMIN\\ \url{cedric.cnam.fr}}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[b]{0.25\textwidth} 
+        \centering
+        \includegraphics[scale=0.05]{images/ists.jpg}
+        \caption[]{ISTS\\ \url{cedric.cnam.fr}}
+    \end{subfigure}
+    ~
+    \begin{subfigure}[b]{0.25\textwidth} 
+        \centering
+        \includegraphics[scale=0.23]{images/ensatt.jpg}
+        \caption[]{ENSATT\\ \url{cedric.cnam.fr}}
+    \end{subfigure}    
+\end{figure} 
     
-    Blue Yeti
+    {\Large Artists: Les Baltazars, Renaud Rubiano, Antoine Villeret...}
     
 \end{frame}
 

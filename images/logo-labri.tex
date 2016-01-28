@@ -1,0 +1,45 @@
+\begin{tikzpicture}[scale=.05]
+
+\pgfmathsetmacro\bleulabriR{0/255}
+\pgfmathsetmacro\bleulabriG{114/255}
+\pgfmathsetmacro\bleulabriB{185/255}
+
+\pgfmathsetmacro\vertlabriR{10/255}
+\pgfmathsetmacro\vertlabriG{177/255}
+\pgfmathsetmacro\vertlabriB{134/255}
+
+\pgfmathsetmacro\rougelabritopR{162/255}
+\pgfmathsetmacro\rougelabritopG{47/255}
+\pgfmathsetmacro\rougelabritopB{50/255}
+
+\pgfmathsetmacro\rougelabrimiddleR{178/255}
+\pgfmathsetmacro\rougelabrimiddleG{117/255}
+\pgfmathsetmacro\rougelabrimiddleB{99/255}
+
+\pgfmathsetmacro\rougelabribottomR{230/255}
+\pgfmathsetmacro\rougelabribottomG{206/255}
+\pgfmathsetmacro\rougelabribottomB{196/255}
+
+
+\definecolor{bleulabri}{rgb}{\bleulabriR, \bleulabriG, \bleulabriB}
+\definecolor{vertlabri}{rgb}{\vertlabriR, \vertlabriG, \vertlabriB}
+\definecolor{rougetoplabri}{rgb}{\rougelabritopR, \rougelabritopG,
+ \rougelabritopB}
+\definecolor{rougemiddlelabri}{rgb}{\rougelabrimiddleR,
+ \rougelabrimiddleG, \rougelabrimiddleB}
+\definecolor{rougebottomlabri}{rgb}{\rougelabribottomR,
+ \rougelabribottomG, \rougelabribottomB}
+
+\def\rectanglepath{-- ++(0cm,38.5cm)-- ++(10cm,0cm)--
+ ++(0cm,-30.3cm)-- ++(13cm,0cm)-- ++(-2cm,-8.2cm)-- cycle}
+
+
+\shade[top color=rougetoplabri!95!black,bottom
+ color=rougebottomlabri!15!white!95!black,middle
+ color=rougemiddlelabri!90!white!98!black,shading=axis,
+shading angle=-135] (19.25, 19.25) circle (6.75cm);
+
+\fill[fill=bleulabri] (0,0) \rectanglepath;
+\fill[rotate=180,fill=vertlabri] (-38.5,-38.5) \rectanglepath;
+
+\end{tikzpicture}
