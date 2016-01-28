@@ -8,9 +8,14 @@
 \usepackage[utf8]{inputenc}
 \usepackage[justification=centering]{caption}
 \usepackage{subcaption}
+\usepackage{listings}
 \setmainfont{Fira Sans}
-\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+\setsansfont{Fira Sans}
+\setmonofont{Fira Mono}
 \captionsetup[subfigure]{labelformat=empty}
+\captionsetup[figure]{labelformat=empty}
+\setbeamertemplate{caption}{\raggedright\insertcaption\par}
+\setbeamerfont{frametitle}{size=\LARGE}
 \newfontfamily\DejaSans{DejaVu Sans}
 \setbeamerfont{title}{family=\texttt,size=\huge}
 \usepackage[scale=2]{ccicons}
@@ -21,12 +26,19 @@
 \institute{LaBRI, Blue Yeti, GMEA }
 \date{January 30, 2016}
 
+\newsavebox{\codebox}% For storing listings
 \begin{document}
     
 \maketitle
 
 \begin{frame}
-    \frametitle{The problem}        
+    \frametitle{The problem}    
+    \Large
+    \begin{itemize}
+    	\item A lot of tools for entirely fixed, "rendered" content.
+    	\item A lot of tools for entirely interactive content (artistic installations).
+    	\item What goes in between ?    	
+    \end{itemize}    
 \end{frame}
 
 \begin{frame}
@@ -35,140 +47,206 @@
     \begin{figure}
         \centering
         \includegraphics[width=0.9\textwidth]{images/futuroscope.jpg}
-        \caption[]{Futuroscope, France. Blue Yeti}
+        \caption{Futuroscope, France. Blue Yeti}
     \end{figure}
 \end{frame}
 
 
 \begin{frame}
-    \frametitle{Example installations}        
-    robots
-    ensatt
-    pascal
+    \frametitle{Example installations}       
     
+    \begin{figure}
+    	\centering
+    	\includegraphics[width=0.6\textwidth]{images/tumbleweed.jpg}
+    	\caption{Tumbleweed, Les Baltazars}
+    \end{figure}
 \end{frame}
 
 \begin{frame}
-    \frametitle{Screenshot}        
+    \frametitle{Screenshot}    
+    \begin{figure}
+    	\centering
+    	\includegraphics[width=\textwidth]{images/iscore.png}
+    	\caption{i-score}
+    \end{figure}    
 \end{frame}
 
 
 \begin{frame}
     \frametitle{Contributors, Companies, Agencies involved}
     \begin{figure}[htbp]
-    \begin{subfigure}[b]{0.25\textwidth} 
+    \begin{subfigure}[b]{0.30\textwidth} 
         \centering
         \input{images/logo-labri.tex}
         \caption{LaBRI \\ \url{www.labri.fr}}
     \end{subfigure}
     ~
-    \begin{subfigure}[b]{0.25\textwidth} 
+    \begin{subfigure}[b]{0.30\textwidth} 
         \centering
         \includegraphics[scale=0.12]{images/by.png}
         \caption[]{Blue Yeti\\ \url{www.blueyeti.fr}}
     \end{subfigure}
     ~
-    \begin{subfigure}[b]{0.25\textwidth} 
+    \begin{subfigure}[b]{0.30\textwidth} 
         \centering
         \includegraphics[scale=0.15]{images/gmea.png}
         \caption[]{GMEA\\\url{www.gmea.net}}
     \end{subfigure}
     
     
-    \begin{subfigure}[b]{0.25\textwidth} 
+    \begin{subfigure}[b]{0.30\textwidth} 
         \centering
         \includegraphics[scale=0.25]{images/cnam.png}
         \caption[]{CNAM : \\ CEDRIC, ENJMIN\\ \url{cedric.cnam.fr}}
     \end{subfigure}
     ~
-    \begin{subfigure}[b]{0.25\textwidth} 
+    \begin{subfigure}[b]{0.30\textwidth} 
         \centering
         \includegraphics[scale=0.05]{images/ists.jpg}
-        \caption[]{ISTS\\ \url{cedric.cnam.fr}}
+        \caption[]{ISTS\\ \url{ists-avignon.com}}
     \end{subfigure}
     ~
-    \begin{subfigure}[b]{0.25\textwidth} 
+    \begin{subfigure}[b]{0.30\textwidth} 
         \centering
         \includegraphics[scale=0.23]{images/ensatt.jpg}
-        \caption[]{ENSATT\\ \url{cedric.cnam.fr}}
+        \caption[]{ENSATT\\ \url{ensatt.fr}}
     \end{subfigure}    
 \end{figure} 
     
-    {\Large Artists: Les Baltazars, Renaud Rubiano, Antoine Villeret...}
+    {\large Artists: Les Baltazars, Renaud Rubiano, Antoine Villeret...}
     
 \end{frame}
 
     \begin{frame}
         \frametitle{What i-score is : }
+        \Large
         \begin{itemize}        
-        \item Visual programming language for interactive multimedia applications        
+        \item A visual programming language       
         \item Free software : GPL v3 (UI) \& LGPL v2.1 (Engine)
-        \item C++ (Qt, CMake)        
-        \item Linux / OS X / Windows        
+        \item Built in C++ (Qt, CMake)        
+        \item Available in Linux / OS X / Windows        
         \item Alpha-quality \DejaSans{☹}
         \end{itemize}
     \end{frame}
     \begin{frame}
         \frametitle{What i-score is not : }
-        \begin{itemize}
-            \item Audio sequencer        
-            \item Video sequencer        
-            \item PureData or Ableton Live       
-            \item Bug-free
+        \Large
+        \begin{itemize} 
+            \item PureData (yet)
+            \item Ableton Live (yet)       
+            \item Bug-free (yet !)
         \end{itemize}
     \end{frame}
     
     \begin{frame}
-        \frametitle{Inter-operability}
-        Max, PureData, Unity, OpenFrameworks, Processing, Jamoma, Modul8, Millumin, Quartz Composer, Qt...
+    	\centering \Huge Demonstration
     \end{frame}
     
     \begin{frame}
-        \centering \Huge Demonstration
+        \frametitle{Inter-operability}
+        \Large
+        \begin{itemize}
+        	\item Compatible environments :\\
+	        	 Max, PureData, Unity, OpenFrameworks, Processing, Jamoma, Modul8, Millumin, Quartz Composer, Qt... 
+	        \item Anything that communicates over OSC.
+	        \item Extensibilty via plug-ins*. \\ {\small *API not stable until v 2.0}
+        \end{itemize}
+        
     \end{frame}
+    
     
     \begin{frame}
         \frametitle{Automations, mappings}
+        \begin{figure}
+        	\centering
+        	\includegraphics[scale=0.7]{images/curves.png}
+        	\caption{Various kinds of curves}
+        \end{figure}    
         
     \end{frame}
     
+    \begin{lrbox}{\codebox}
+    	\begin{lstlisting}
+function(t) { 
+    var obj = new Object; 
+    obj["address"] = 'dev:/foo/bar'; 
+    obj["value"] = t + iscore.value('other:/baz'); 
+    return [ obj ]; 
+}
+    	\end{lstlisting}
+    \end{lrbox}
+    
     \begin{frame}
-        \frametitle{Javascript}
-        
+    	\frametitle{JavaScript}
+    	\begin{figure}
+    		\centering
+    	    \usebox{\codebox}
+    	    \caption{Called at each tick}
+    	\end{figure}
+    	
+    	\begin{itemize}
+    		\item Uses Qt's QJSEngine.
+    		\item For now API with a single function : should be extended.
+    	\end{itemize}
     \end{frame}
     
     \begin{frame}
         \frametitle{Hierarchy}
         
+        \begin{figure}
+        	\centering
+        	\includegraphics[scale=0.6]{images/hierarchy.png}
+        	\caption{Scenarios can be nested arbitrarily}
+        \end{figure}   
     \end{frame}
     
     \begin{frame}
-        \frametitle{Spatial automations}
+        \frametitle{WIP : Spatial automations}
         
+        \begin{figure}
+        	\centering
+        	\includegraphics[width=\textwidth]{images/autom3d.png}
+        \end{figure}   
+        
+        \begin{itemize}
+        	\item 3d splines that uses VTK. Can be used to create paths in space for instance.
+        	\item Spatial mappings to compute collisions, distances, etc. and performs actions according to the result of such computations.
+        \end{itemize}
     \end{frame}
     
-    \begin{frame}
-        \frametitle{Future : audio ?}
-        
-    \end{frame}
 
 \begin{frame}
     \frametitle{Future : distribution ?}
     
-\end{frame}
-
-\begin{frame}
-    \frametitle{Future : other features}
-    
+    \Large
     \begin{itemize}
-    \item MIDI, WebSockets support
-    \item Some level of patching, like Pd
-    \item Complete remote-control abilities; currently execution can be followed via a web page.
+    	\item Currently : multiple instances can work together at the editing stage.
+    	\item Soon : distributed execution.
+    	\item Example scenarios :
+    	\begin{itemize}
+    		\item \large  100 phones controlling a parameter together.
+    		\item Live backups if a computer dies during performance.
+    		\item Offloading.
+    	\end{itemize}
+    	 
     \end{itemize}
 \end{frame}
 
 \begin{frame}
-    \frametitle{Contributing}    
+    \frametitle{Future : other features}
+    \Large
+    \begin{itemize}
+    \item MIDI, WebSockets support
+    \item Some level of patching, like Pd
+    \item Complete remote-control abilities.\\ Currently : execution can be followed via a web page.
+    \item Port excecution engine to FPGA. 
+    \item Audio engine ? 
+    \end{itemize}
+\end{frame}
+
+\begin{frame}
+    \frametitle{Contributing}   
+    \large 
     \begin{itemize}
     \item UX, UI (mock-ups were done but not entirely implemented)
     \item Documentation, writing demo scenarios
@@ -190,7 +268,7 @@
 \begin{frame}
     \frametitle{Links}
     \begin{itemize}
-        \item \textbf{Grab a release !} :~\\ \url{github.com/OSSIA/i-score/releases}. 
+        \item \textbf{Grab a release !} ~\\ \url{github.com/OSSIA/i-score/releases}. 
         \item \textbf{Protocols and implementations} :~\\
         \url{github.com/OSSIA}
     \end{itemize}
