@@ -35,39 +35,38 @@
     \frametitle{The problem}    
     \Large
     \begin{itemize}
-    	\item A lot of tools for entirely fixed, "rendered" content.
-    	\item A lot of tools for entirely interactive content (artistic installations).
+    	\item A lot of tools for entirely fixed temporal content \\ $\rightarrow$ traditional song-making.
+    	\item A lot of tools for fully interactive content  \\  $\rightarrow$ artistic installations.~\\~\\
     	\item What goes in between ?    	
     \end{itemize}    
 \end{frame}
 
 \begin{frame}
-    \frametitle{Example installations}        
+    \frametitle{Futuroscope, France : the Sprinter}        
 
     \begin{figure}
         \centering
         \includegraphics[width=0.9\textwidth]{images/futuroscope.jpg}
-        \caption{Futuroscope, France. Blue Yeti}
+        \caption{Credits : Blue Yeti}
     \end{figure}
 \end{frame}
 
 
 \begin{frame}
-    \frametitle{Example installations}       
+    \frametitle{Tumbleweed}       
     
     \begin{figure}
     	\centering
     	\includegraphics[width=0.6\textwidth]{images/tumbleweed.jpg}
-    	\caption{Tumbleweed, Les Baltazars}
+    	\caption{Credits : Les Baltazars}
     \end{figure}
 \end{frame}
 
 \begin{frame}
-    \frametitle{Screenshot}    
+    \frametitle{The software}    
     \begin{figure}
     	\centering
     	\includegraphics[width=\textwidth]{images/iscore.png}
-    	\caption{i-score}
     \end{figure}    
 \end{frame}
 
@@ -121,10 +120,10 @@
         \frametitle{What i-score is : }
         \Large
         \begin{itemize}        
-        \item A visual programming language       
-        \item Free software : GPL v3 (UI) \& LGPL v2.1 (Engine)
-        \item Built in C++ (Qt, CMake)        
-        \item Available in Linux / OS X / Windows        
+        \item A visual \textbf{programming language} \\ $\rightarrow$ Conditions, loops, structuration, in a timeline
+        \item Free software : \textbf{GPL v3 }(UI) \& LGPL v2.1 (Engine)
+        \item Built in \textbf{C++} (Qt, CMake)        
+        \item Available on Linux / OS X / Windows        
         \item Alpha-quality \DejaSans{☹}
         \end{itemize}
     \end{frame}
@@ -134,7 +133,14 @@
         \begin{itemize} 
             \item PureData (yet)
             \item Ableton Live (yet)       
-            \item Bug-free (yet !)
+            \item Bug-free (yet ! \DejaSans{☺})
+        \end{itemize}
+        \vspace{2em}
+        \Huge Does not operate on its own !
+        
+        \Large
+        \begin{itemize} 
+            \item  It's a control center
         \end{itemize}
     \end{frame}
     
@@ -147,9 +153,9 @@
         \Large
         \begin{itemize}
         	\item Compatible environments :\\
-	        	 Max, PureData, Unity, OpenFrameworks, Processing, Jamoma, Modul8, Millumin, Quartz Composer, Qt... 
-	        \item Anything that communicates over OSC.
-	        \item Extensibilty via plug-ins*. \\ {\small *API not stable until v 2.0}
+	        	 \textbf{Max/MSP}, \textbf{PureData}, \textbf{Unity3D}, \textbf{OpenFrameworks}, \textbf{Processing}, \textbf{Jamoma}, \textbf{Modul8}, \textbf{Millumin}, \textbf{Quartz Composer}, \textbf{Qt}... 
+	        \item Anything that communicates over \textbf{OSC}.
+	        \item Extensibilty via \textbf{plug-ins}*. \\ {\small *API not stable until v 2.0}
         \end{itemize}
         
     \end{frame}
@@ -181,12 +187,12 @@ function(t) {
     	\begin{figure}
     		\centering
     	    \usebox{\codebox}
-    	    \caption{Called at each tick}
+    	    \caption{Will get called at each tick}
     	\end{figure}
     	
     	\begin{itemize}
     		\item Uses Qt's QJSEngine.
-    		\item For now API with a single function : should be extended.
+    		\item For now API with a single function : fetch a remote value.
     	\end{itemize}
     \end{frame}
     
@@ -196,7 +202,7 @@ function(t) {
         \begin{figure}
         	\centering
         	\includegraphics[scale=0.6]{images/hierarchy.png}
-        	\caption{Scenarios can be nested arbitrarily}
+        	\caption{Scenarios can be \textbf{nested} arbitrarily}
         \end{figure}   
     \end{frame}
     
@@ -209,8 +215,8 @@ function(t) {
         \end{figure}   
         
         \begin{itemize}
-        	\item 3d splines that uses VTK. Can be used to create paths in space for instance.
-        	\item Spatial mappings to compute collisions, distances, etc. and performs actions according to the result of such computations.
+        	\item \textbf{3d splines} that uses VTK. Can be used to create paths in space for instance.
+        	\item \textbf{Spatial mappings} to compute collisions, distances, etc. and performs actions according to the result of such computations.
         \end{itemize}
     \end{frame}
     
@@ -220,13 +226,14 @@ function(t) {
     
     \Large
     \begin{itemize}
+        \setlength\itemsep{1em}
     	\item Currently : multiple instances can work together at the editing stage.
-    	\item Soon : distributed execution.
+    	\item In progress : distributed execution.
     	\item Example scenarios :
     	\begin{itemize}
     		\item \large  100 phones controlling a parameter together.
     		\item Live backups if a computer dies during performance.
-    		\item Offloading.
+    		\item Offloading due to performance requirements.
     	\end{itemize}
     	 
     \end{itemize}
@@ -236,10 +243,11 @@ function(t) {
     \frametitle{Future : other features}
     \Large
     \begin{itemize}
-    \item MIDI, WebSockets support
-    \item Some level of patching, like Pd
-    \item Complete remote-control abilities.\\ Currently : execution can be followed via a web page.
-    \item Port excecution engine to FPGA. 
+        \setlength\itemsep{1em}
+    \item \textbf{MIDI}, \textbf{WebSockets} support
+    \item Some level of \textbf{patching}, like Pd
+    \item Complete \textbf{remote-control} abilities.\\ Currently : execution can be followed via a web page.
+    \item Port execution engine to \textbf{FPGA}. 
     \item Audio engine ? 
     \end{itemize}
 \end{frame}
@@ -248,16 +256,17 @@ function(t) {
     \frametitle{Contributing}   
     \large 
     \begin{itemize}
-    \item UX, UI (mock-ups were done but not entirely implemented)
-    \item Documentation, writing demo scenarios
-    \item Translations    
-    \item Implement the Minuit protocol in your software with the OSSIA API    
+        \setlength\itemsep{1em}
+    \item \textbf{UX}, \textbf{UI} (mock-ups were done but not entirely implemented)
+    \item \textbf{Documentation}, writing demo scenarios
+    \item \textbf{Translations}    
+    \item Implement the \textbf{Minuit} protocol in your software with the OSSIA API    
     \item Many "low-hanging fruit" TODOs
     \item Mobile devices ports : 
     \begin{itemize}
-        \item Android : builds and run but requires adapted UI.
-        \item Web port : with PNaCl, runs but crashes. Will open the way to WebAssembly. 
-        \item iDevices (many artists use them).
+        \item \textbf{Android} : builds and run but requires adapted UI.
+        \item \textbf{Web port} : with PNaCl, runs but crashes. Will open the way to WebAssembly. 
+        \item \textbf{iDevices} (many artists use them).
     \end{itemize}
 \end{itemize}
     
@@ -268,15 +277,18 @@ function(t) {
 \begin{frame}
     \frametitle{Links}
     \begin{itemize}
-        \item \textbf{Grab a release !} ~\\ \url{github.com/OSSIA/i-score/releases}. 
+        \setlength\itemsep{1em}
+        \item \textbf{Grab a release !} ~\\ \url{github.com/OSSIA/i-score/releases}
         \item \textbf{Protocols and implementations} :~\\
         \url{github.com/OSSIA}
+         \item \textbf{Official website (not up-to-date)} :~\\
+         \url{i-score.org}
     \end{itemize}
         
     \centering
-    \vspace{2cm}
+    \vspace{2em}
     \Large{Thanks ! Questions ?}
-    \vspace{2cm}
+    \vspace{2em}
     
     \small{Credits: 'simple' Beamer theme, Facundo Muñoz; Fira font}
 \end{frame}    
