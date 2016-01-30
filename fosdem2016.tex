@@ -9,6 +9,7 @@
 \usepackage[justification=centering]{caption}
 \usepackage{subcaption}
 \usepackage{listings}
+\usepackage{pstricks}
 \setmainfont{Fira Sans}
 \setsansfont{Fira Sans}
 \setmonofont{Fira Mono}
@@ -35,9 +36,9 @@
     \frametitle{The problem}    
     \Large
     \begin{itemize}
-    	\item A lot of tools for entirely fixed temporal content \\ $\rightarrow$ traditional song-making.
-    	\item A lot of tools for fully interactive content  \\  $\rightarrow$ artistic installations.~\\~\\
-    	\item What goes in between ?    	
+    	\item<1-> A lot of tools for entirely fixed temporal content \\ $\rightarrow$ traditional song-making.
+    	\item<2-> A lot of tools for fully interactive content  \\  $\rightarrow$ artistic installations.~\\~\\
+    	\item<3-> What goes in between ?    	
     \end{itemize}    
 \end{frame}
 
@@ -120,24 +121,25 @@
         \frametitle{What i-score is : }
         \Large
         \begin{itemize}        
-        \item A visual \textbf{programming language} \\ $\rightarrow$ Conditions, loops, structuration, in a timeline
-        \item Free software : \textbf{GPL v3 }(UI) \& LGPL v2.1 (Engine)
-        \item Built in \textbf{C++} (Qt, CMake)        
-        \item Available on Linux / OS X / Windows        
-        \item Alpha-quality \DejaSans{☹}
+        \item<1-> A visual \textbf{programming language} \\ $\rightarrow$ Conditions, loops, structuring, in a timeline
+        \item<1-> Free software : \textbf{GPL v3 }(UI) \& LGPL v2.1 (Engine)
+        \item<2-> Built in \textbf{C++} (Qt, CMake)        
+        \item<2-> Available on Linux / OS X / Windows        
+        \item<3-> Alpha-quality \DejaSans{☹}
         \end{itemize}
     \end{frame}
     \begin{frame}
         \frametitle{What i-score is not : }
         \Large
-        \begin{itemize} 
+        \begin{itemize} [<+->]
             \item PureData (yet)
             \item Ableton Live (yet)       
             \item Bug-free (yet ! \DejaSans{☺})
         \end{itemize}
         \vspace{2em}
-        \Huge Does not operate on its own !
         
+        \pause[\thebeamerpauses]
+        \Huge Does not operate on its own !
         \Large
         \begin{itemize} 
             \item  It's a control center
@@ -153,7 +155,7 @@
         \Large
         \begin{itemize}
         	\item Compatible environments :\\
-	        	 \textbf{Max/MSP}, \textbf{PureData}, \textbf{Unity3D}, \textbf{OpenFrameworks}, \textbf{Processing}, \textbf{Jamoma}, \textbf{Modul8}, \textbf{Millumin}, \textbf{Quartz Composer}, \textbf{Qt}... 
+	        	 Max/MSP, \textbf{PureData}, Unity3D, \textbf{OpenFrameworks}, \textbf{Processing}, \textbf{Jamoma}, Modul8, Millumin, Quartz Composer, \textbf{Qt}... 
 	        \item Anything that communicates over \textbf{OSC}.
 	        \item Extensibilty via \textbf{plug-ins}*. \\ {\small *API not stable until v 2.0}
         \end{itemize}
@@ -162,13 +164,28 @@
     
     
     \begin{frame}
+        \frametitle{Conditions}
+        \begin{figure}
+            \centering\psscalebox{0.8}{
+            \input{images/cond.tex}}
+        \end{figure}    
+    \end{frame}
+    
+    \begin{frame}
+        \frametitle{Triggering}
+        \begin{figure}
+            \centering\psscalebox{0.8}{
+                \input{images/trig.tex}}
+        \end{figure}    
+    \end{frame}
+    
+    \begin{frame}
         \frametitle{Automations, mappings}
         \begin{figure}
         	\centering
         	\includegraphics[scale=0.7]{images/curves.png}
         	\caption{Various kinds of curves}
         \end{figure}    
-        
     \end{frame}
     
     \begin{lrbox}{\codebox}

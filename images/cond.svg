@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 744.09448819 1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="cond.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="Arrow1Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow1Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4803"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) rotate(180) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="DiamondSstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DiamondSstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4882"
+         d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         transform="scale(0.2) translate(6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4809"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) rotate(180) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="269.5294"
+     inkscape:cy="798.2264"
+     inkscape:document-units="px"
+     inkscape:current-layer="g4144"
+     showgrid="false"
+     inkscape:snap-text-baseline="false"
+     inkscape:window-width="2834"
+     inkscape:window-height="1735"
+     inkscape:window-x="20"
+     inkscape:window-y="20"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <title
+       id="title4138">Qt SVG Document</title>
+    <desc
+       id="desc4140">Generated with Qt</desc>
+    <g
+       id="g4144"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel"
+       transform="translate(657.47214,-1708.9592)">
+      <g
+         id="g4146"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4148"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4150"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4152"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4154"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4160"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4162"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4164"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4166"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-148.97014,1616.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4168"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-148.97014,1616.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4170"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-148.97014,1616.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4176"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-148.97014,1616.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4178"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(134.02986,1616.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4184"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(134.02986,1616.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4186"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4188"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4190"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4196"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4198"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4200"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,3138.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4206"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,3138.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4208"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4214"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4216"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4218"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4224"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4226"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1940.8286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4232"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1940.8286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4234"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4236"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#917c6f;fill-opacity:1;stroke:none;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none">
+        <rect
+           id="rect4238"
+           height="368"
+           width="2"
+           y="0"
+           x="-1"
+           style="stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;fill:#917c6f" />
+      </g>
+      <g
+         id="g4240"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4242"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4244"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#464646;fill-opacity:1;stroke:none">
+        <rect
+           id="rect4246"
+           height="0"
+           width="2"
+           y="0"
+           x="-1" />
+      </g>
+      <g
+         id="g4248"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4250"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4252"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#464646;fill-opacity:1;stroke:none">
+        <rect
+           id="rect4254"
+           height="0"
+           width="2"
+           y="0"
+           x="-1" />
+      </g>
+      <g
+         id="g4256"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4258"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4260"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#464646;fill-opacity:1;stroke:none">
+        <rect
+           id="rect4262"
+           height="0"
+           width="2"
+           y="0"
+           x="-1" />
+      </g>
+      <g
+         id="g4264"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4266"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4272"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4274"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,2240.2286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4280"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,2240.2286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4282"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,1789.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4284"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,1789.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#5d7a37;fill-opacity:0;stroke:#70da36;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <path
+           id="path4286"
+           d="M 20,2 20.2516,1.80701 C 18.2656,0.657773 15.9596,0 13.5,0 6.04416,0 0,6.04416 0,13.5 l 0,92 c 0,7.456 6.04416,13.5 13.5,13.5 2.4599,0 4.7662,-0.658 6.7524,-1.807"
+           vector-effect="none"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd;fill:#5d7a37;stroke:#70da36;stroke-opacity:1;fill-opacity:0" />
+      </g>
+      <g
+         id="g4288"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,1789.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <path
+           id="path4290"
+           d="m 25,5 0,16 7,-7"
+           vector-effect="non-scaling-stroke"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g4292"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,1789.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4294"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4296"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#70da36;stroke-opacity:1">
+        <rect
+           id="rect4298"
+           height="92"
+           width="2.5999999"
+           y="0"
+           x="-1.3"
+           style="stroke:#70da36;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4300"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4302"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4304"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:none">
+        <rect
+           id="rect4306"
+           height="0"
+           width="2.5999999"
+           y="0"
+           x="-1.3" />
+      </g>
+      <g
+         id="g4308"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4310"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4312"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:none">
+        <rect
+           id="rect4314"
+           height="0"
+           width="2.5999999"
+           y="0"
+           x="-1.3" />
+      </g>
+      <g
+         id="g4316"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4318"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,2009.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4320"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,2009.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#5d7a37;fill-opacity:0;stroke:#da5f36;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <path
+           id="path4322"
+           d="M 20,2 20.2516,1.80701 C 18.2656,0.657773 15.9596,0 13.5,0 6.04416,0 0,6.04416 0,13.5 l 0,148 c 0,7.456 6.04416,13.5 13.5,13.5 2.4599,0 4.7662,-0.658 6.7524,-1.807"
+           vector-effect="none"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd;fill:#5d7a37;fill-opacity:0;stroke:#da5f36;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4324"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,2009.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <path
+           id="path4326"
+           d="m 25,5 0,16 7,-7"
+           vector-effect="non-scaling-stroke"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g4328"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-256.07214,2009.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4330"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4332"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:#da5f36;stroke-opacity:1">
+        <rect
+           id="rect4334"
+           height="148"
+           width="2.5999999"
+           y="0"
+           x="-1.3"
+           style="stroke:#da5f36;stroke-opacity:1" />
+      </g>
+      <g
+         id="g4336"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4338"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4340"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#ffffff;fill-opacity:1;stroke:none">
+        <rect
+           id="rect4342"
+           height="0"
+           width="2.5999999"
+           y="0"
+           x="-1.3" />
+      </g>
+      <g
+         id="g4344"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4346"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4348"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#03c3dd;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           id="path4350"
+           d="M 0,0 380.285,0"
+           vector-effect="none"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g4352"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4354"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4356"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#03c3dd;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           id="path4358"
+           d="M 0,0 154.419,0"
+           vector-effect="none"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g4360"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4362"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4364"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#03c3dd;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           id="path4366"
+           d="M 0,0 253.524,0"
+           vector-effect="none"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g4368"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4370"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4372"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#03c3dd;stroke-width:3;stroke-linecap:square;stroke-linejoin:round;stroke-opacity:1">
+        <path
+           id="path4374"
+           d="M 0,0 216.647,0"
+           vector-effect="none"
+           inkscape:connector-curvature="0"
+           style="fill-rule:evenodd" />
+      </g>
+      <g
+         id="g4376"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4378"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,2389.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4384"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,2389.9286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4386"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4388"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4390"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4392"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4394"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4396"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4398"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4400"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1803.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4402"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4404"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4406"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4408"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4410"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4412"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4414"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4416"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-88.153143,1895.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4418"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4420"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4422"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4424"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4426"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4428"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4430"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4432"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(10.951857,2023.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4434"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4436"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4438"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4440"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4442"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4444"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4446"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4448"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-25.924143,2104.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4450"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2171.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4452"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2171.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:#252930;fill-opacity:1;stroke:#a0a0a4;stroke-width:2;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1">
+        <circle
+           id="circle4454"
+           r="7"
+           cy="0"
+           cx="0" />
+      </g>
+      <g
+         id="g4456"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2171.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4458"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-242.57214,2171.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4460"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4462"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4464"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4466"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4468"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4470"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(-622.85714,1641.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4472"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4478"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4480"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(620.41286,1586.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4482"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(620.41286,1586.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4484"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="matrix(1.5,0,0,1.5,620.41286,1586.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4494"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="matrix(1.5,0,0,1.5,620.41286,1586.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4496"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="matrix(1.5,0,0,1.5,620.41286,1586.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4498"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1611.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4504"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1611.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4506"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4512"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4514"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1611.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4520"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1611.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4522"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4528"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <g
+         id="g4530"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1611.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4536"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         transform="translate(627.91286,1611.4286)"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1" />
+      <g
+         id="g4538"
+         font-style="normal"
+         font-weight="400"
+         font-size="8"
+         style="font-style:normal;font-weight:400;font-size:8px;font-family:Ubuntu;fill:none;stroke:#000000;stroke-width:1;stroke-linecap:square;stroke-linejoin:bevel;stroke-opacity:1"
+         transform="translate(-622.85714,1611.4286)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-374.12436"
+         y="1748.6434"
+         id="text4758"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4760"
+           x="-374.12436"
+           y="1748.6434" /></text>
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot4762"
+         style="fill:black;stroke:none;stroke-opacity:1;stroke-width:1px;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px"><flowRegion
+           id="flowRegion4764"><rect
+             id="rect4766"
+             width="174.75639"
+             height="73.741135"
+             x="158.59395"
+             y="252.3214" /></flowRegion><flowPara
+           id="flowPara4768"></flowPara></flowRoot>      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-485.24115"
+         y="1859.2552"
+         id="text4774"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4776"
+           x="-485.24115"
+           y="1859.2552">a:/foo &lt; 2.3</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Fira Code';-inkscape-font-specification:'Fira Code, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-528.67767"
+         y="2103.7122"
+         id="text4778"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan4780"
+           x="-528.67767"
+           y="2103.7122">a:/bar != &quot;boo&quot;</tspan></text>
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:4;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+         d="m -358.97206,1753.1892 c 27.14593,7.5776 91.27694,-10.1829 113.64216,27.2741"
+         id="path4782"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:30px;line-height:125%;font-family:'Fira Sans';-inkscape-font-specification:'Fira Sans, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-587.26654"
+         y="1741.0673"
+         id="text5572"
+         sodipodi:linespacing="125%"><tspan
+           sodipodi:role="line"
+           id="tspan5574"
+           x="-587.26654"
+           y="1741.0673">Evaluated at this point in time </tspan></text>
+    </g>
+  </g>
+</svg>
